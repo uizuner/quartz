@@ -1,4 +1,4 @@
-baseURL = "https://uizuner.github.io/quartz/"
+baseURL = "https://uizuner.github.io/"
 languageCode = "en-us"
 relativeURLs = false
 disablePathToLower = true
